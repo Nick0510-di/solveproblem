@@ -1,0 +1,6 @@
+{
+  "name": "SmartSchool - Texnik Kollej Boshqaruv Tizimi",
+  "description": "Texnikum va kollejlar uchun talabalar davomati, dars jadvali, guruhlar reytingi va aqlli qo'ng'iroq (ESP32) boshqaruv platformasi.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
